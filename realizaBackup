@@ -1,0 +1,1 @@
+tar -cvf ~/fontes.tar ~/NetBeansProjects && cp ~/fontes.tar ~/alura/kltech/curso-git && cd ~/alura/kltech/curso-git && git pull && git add fontes.tar && git commit -m 'Backup' && git push 
